@@ -9,7 +9,7 @@ name: ismusidhu jekyll-now website
 description: Trying jekyll now website for the first time
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://en.gravatar.com/userimage/7713034/b9c0c961bb1ff05887106a434647873a.jpg?size=200
+avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: ismusidhu/ismusidhu.github.io
+  github: ismusidhu/someotherthing.github.io
   instagram:
   linkedin:
   pinterest:
