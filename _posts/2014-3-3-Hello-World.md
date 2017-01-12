@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ismusidhu! You're up and running!
+title: someotherthing.github.io! You're up and running!
 published: true
 ---
 
